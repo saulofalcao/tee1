@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  titulo: MyString
+  descricao: MyText
+  qtd_vendidas: 1
+  qtd_minima: 1
+
+two:
+  titulo: MyString
+  descricao: MyText
+  qtd_vendidas: 1
+  qtd_minima: 1
